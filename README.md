@@ -1,26 +1,34 @@
-# academic-ejercicios_interfacesypuertos
+# Ejercicios de Interfaces y Puertos
 
-Repositorio académico con ejercicios de Programación de Interfaces y Puertos.
+<div align="center">
 
-## Categoría
+![Academic](https://img.shields.io/badge/Tipo-Academico-6f42c1?style=for-the-badge)
+![Course](https://img.shields.io/badge/Clase-Interfaces%20y%20Puertos-0ea5e9?style=for-the-badge)
+![Status](https://img.shields.io/badge/Estado-Finalizado-22c55e?style=for-the-badge)
 
-`academic-` — ejercicios y trabajos realizados para una materia.
+**Ejercicios finalizados para la clase de Interfaces y Puertos.**
 
-## Descripción
+</div>
 
-Conjunto de prácticas orientadas a reforzar temas de interfaces, puertos, comunicación o interacción con dispositivos según los contenidos de la materia.
+---
 
-## Objetivos
+## Contexto Academico
 
+Conjunto de practicas orientadas a reforzar temas de interfaces, puertos, comunicacion e interaccion tecnica segun los contenidos de la materia.
+
+## Proposito
+
+- Conservar evidencias academicas finalizadas.
 - Practicar conceptos vistos en clase.
-- Conservar evidencia académica organizada.
-- Reforzar lógica y solución de problemas.
+- Reforzar logica y solucion de problemas.
 - Documentar ejercicios por tema.
+
+## Temas
+
+![Interfaces](https://img.shields.io/badge/Interfaces-2563eb?style=flat-square)
+![Ports](https://img.shields.io/badge/Puertos-f97316?style=flat-square)
+![Academic](https://img.shields.io/badge/Evidencia%20Academica-16a34a?style=flat-square)
 
 ## Estado
 
-Repositorio académico de ejercicios.
-
-## Nota
-
-Puede contener prácticas independientes o entregables por actividad.
+Repositorio academico finalizado.
